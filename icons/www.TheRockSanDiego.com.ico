@@ -1,0 +1,1173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The Rock Church - San Diego, CA</title>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> <!-- for charbeat -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="The Rock Church led by Pastor Miles McPherson is committed to sharing the gospel of Jesus Christ with San Diego and beyond.">
+<meta name="keywords" content="rock church san diego miles mcpherson college sdsu ucsd usd god jesus christ christian small groups myrock youth ministry point loma therocksandiego.org">
+<meta property="og:title" content="The Rock Church">
+<meta property="og:url" content="http://www.sdrock.com/">
+<meta property="og:site_name" content="The Rock Church">
+<meta property="og:image" content="http://www.rcstatic.net/utilities/nickthumb/tn/600/images/home/open-graph-pic.jpg">
+<meta property="og:description" content="Visit us this Sunday or watch LIVE online!">
+<meta property="og:type" content="article">
+<meta property="fb:admins" content="3320362">
+
+<link href="http://www.rcstatic.net/cache/minified/1508989260-rock11-css.css" rel="stylesheet" type="text/css">
+
+<link rel="shortcut icon" href="/favicon.ico">
+<script type="text/javascript">
+  var APP = {};
+  APP.siteRoot         = '/';
+  APP.trueSiteRoot     = 'http://www.sdrock.com/';
+  APP.staticSiteRoot   = 'http://www.rcstatic.net/';
+  APP.cookieDomain     = 'sdrock.com';
+  APP.cookieKeyPrefix  = '';
+  APP.bindBodyToCampus = false;
+</script>
+
+
+<script src="http://www.rcstatic.net/cache/minified/1496264759-rock11-js.js"></script>
+
+</head>
+<body id="pg_home" class="pg_home body-white">
+
+
+<div id="page-overlay" class="element-overlay hidden"></div>
+
+<div id="mobile-menu" class="mobile-menu">
+  <div style="padding: .5em 12px 9px .5em">
+  <div class="small-text mb25e b">Your campus:</div>
+  <select name="campus-chooser-mobile" class="js-select-campus-chooser input-standard input-shadow rounded20 w100p">
+              <option selected="selected" data-campus-nick="pointloma">Point Loma</option>
+              <option  data-campus-nick="sanmarcos">San Marcos</option>
+              <option  data-campus-nick="eastcounty">East County</option>
+              <option  data-campus-nick="sanysidro">San Ysidro</option>
+              <option  data-campus-nick="cityheights">City Heights</option>
+      </select>
+</div>
+
+<div style="padding: 0 12px .5em 9px"><form method="get" action="/search/"><input
+  type="text" name="q" placeholder="Search" class="input-standard input-shadow rounded20 w100p"></form></div>
+
+<h3 class="h3-tiny light-grey-bg mb0 pv25e pl10px">About</h3>
+<ul class="mb50e">
+  <li><a href="/mission/">Mission</a></li>
+  <li><a href="/history/">History</a></li>
+  <li><a href="/beliefs/">Beliefs</a></li>
+  <li><a href="/pastormiles/">Pastor Miles</a></li>
+</ul>
+
+<h3 class="h3-tiny light-grey-bg mb0 pv25e pl10px">Watch</h3>
+<ul class="mb50e">
+  <li><a href="/live/">Rock Live</a></li>
+  <li><a href="/messages/">Message Archive</a></li>
+</ul>
+
+<h3 class="h3-tiny light-grey-bg mb0 pv25e pl10px">Grow</h3>
+<ul class="mb50e">
+  <li><a href="/knowgod/">Know God!</a></li>
+  <li><a href="/lifeclass/">Life Class</a></li>
+  <!-- <li><a href="/lifegrowth/">Life Growth Track</a></li> -->
+</ul>
+
+<h3 class="h3-tiny light-grey-bg mb0 pv25e pl10px">Connect</h3>
+<ul class="mb50e">
+  <li><a href="/rgroups/">rGroups</a></li>
+  <li><a href="/ministries/">Ministries</a></li>
+  <li><a href="/stories/">Stories</a></li>
+  <li><a href="/events/">Events</a></li>
+  <!-- <li><a href="/photos/">Photos</a></li> -->
+  <li><a href="/blog/">Blog</a></li>
+</ul>
+
+<h3 class="h3-tiny light-grey-bg mb0 pv25e pl10px">Give</h3>
+<ul class="mb50e">
+  <li><a href="/give/">Give</a></li>
+</ul>
+
+<h3 class="h3-tiny light-grey-bg mb0 pv25e pl10px">Miscellaneous</h3>
+<ul class="mb50e">
+  <!-- <li><a href="/about/">About</a></li> -->
+  <li><a href="/baptism/">Baptism</a></li>
+  <li><a href="/bible/">Bible Reading Plan</a></li>
+  <!-- <li><a href="/businessdirectory/">Business Directory</a></li> -->
+  <li><a href="/campuses/">Campuses</a></li>
+  <li><a href="/classifieds/">Classifieds</a></li>
+  <li><a href="/contactus/">Contact Us</a></li>
+  <li><a href="/globaloutreach/">Global Outreach</a></li>
+  <li><a href="/internships/">Internships</a></li>
+  <li><a href="/jobs/">Jobs</a></li>
+  <li><a href="/microsites/">Microsites</a></li>
+  <li><a href="/mobile/">Mobile App</a></li>
+  <li><a href="/newtotherock/">New to the Rock</a></li>
+  <li><a href="/pastors-staff/">Pastors & Staff</a></li>
+  <li><a href="/podcasting/">Podcasting</a></li>
+  <li><a href="/press/">Press</a></li>
+  <li><a href="/schoolofministry/">Rock School of Ministry</a></li>
+  <li><a href="/store/">Rockpile Bookstore</a></li>
+  <li><a href="/heroes/">Rock Heroes</a></li>
+  <li><a href="/giftstest/">Spiritual Gifts Test</a></li>
+  <li><a href="/campuses/">Services</a></li>
+  <li><a href="/stewardship/">Stewardship</a></li>
+  <li><a href="/thriftstore/">Thrift Store</a></li>
+  <li><a href="/volunteer/">Volunteer</a></li>
+</ul></div>
+
+<div class="body-inner">
+
+      <div class="info-bar-container">
+      <div class="info-bar big-text">
+  <div class="info-bar-inner pv50e clearfix">
+    <div class="flor ml50e"><a href="javascript:;" class="btn-close-info-bar" rel="hide-new-visitor-info-bar"
+      style="color: #ddd"><span class="hidden inline-a500">Close</span> &#9447;<!--  <span class="circle-x-close-button close-dropdowns vam dib"></span> --></a></div>
+    <div class="flol">
+      <span class="hidden inline-a500"><span class="info-bar-new-to-the-rock"><span class="hidden">New to the
+        Rock?</span></span> Welcome! We’re glad you are here.&nbsp;</span>
+      <!-- <span class="hidden inline-a500"><span class="info-bar-new-to-the-rock"><span class="hidden">New to the
+        Rock?</span></span> Welcome! Happy Easter!&nbsp;</span> -->
+      <span class="hidden inline-b500"><b>Welcome!</b></span>
+      <a href="/campuses/" class="b light-blue-text light-blue-text-on-dark">View service times &raquo;</a>
+      <!-- <a href="/events/17006/" class="b" style="color: #7abce8">View service times &raquo;</a> -->
+    </div>
+  </div> <!-- end info-bar-inner -->
+</div> <!-- end info-bar -->
+    </div>
+  
+      <div class="header-container">
+      <div class="header-wide hidden block-a1000">
+  <div class="header-wide-wrapper">
+
+    <div class="header-wide-inner">
+
+      <div class="clearfix">
+        <div class="flol" style="padding-top: 28px"><a href="/"><img src="http://www.rcstatic.net/themes/rock11/img/rock-logo.png" class="block"
+          width="219" height="45" style="max-width: 219px"></a></div>
+        <div class="nav-campus no-tap-highlight flol">
+          <a href="javascript:;" id="nav-campus-link"
+  class="nav-main-link nav-campus-link no-hide-search show-on-click block" rel="#campus-dropdown">
+  <div class="nav-campus-link-name-wrapper clearfix">
+    <div class="nav-campus-link-name js-current-campus-name flol"
+      data-campus-nick="pointloma"><span class="hidden">Point Loma</span></div>
+    <div class="nav-campus-link-down-arrow flor"></div>
+  </div>
+  <div class="nav-main-link-arrow-bg"></div>
+</a>        </div>
+        <div id="main-nav" class="nav-main no-tap-highlight flor clearfix">
+          <a href="javascript:;" class="nav-main-link show-on-hover" rel="#about-dropdown">
+  <div class="nav-main-link-title nav-main-link-title-a"><span class="hidden">About</span></div>
+  <div class="nav-main-link-subtitle">History | Info</div>
+  <div class="nav-main-link-arrow-bg"></div>
+</a>
+<a href="javascript:;" class="nav-main-link show-on-hover" rel="#watch-dropdown">
+  <div class="nav-main-link-title nav-main-link-title-w"><span class="hidden">Watch</span></div>
+  <div class="nav-main-link-subtitle">Messages | Videos</div>
+  <div class="nav-main-link-arrow-bg"></div>
+</a>
+<a href="javascript:;" class="nav-main-link show-on-hover" rel="#grow-dropdown">
+  <div class="nav-main-link-title nav-main-link-title-gr"><span class="hidden">Grow</span></div>
+  <div class="nav-main-link-subtitle">Classes | Resources</div>
+  <div class="nav-main-link-arrow-bg"></div>
+</a>
+<a href="javascript:;" class="nav-main-link show-on-hover" rel="#connect-dropdown">
+  <div class="nav-main-link-title nav-main-link-title-c"><span class="hidden">Connect</span></div>
+  <div class="nav-main-link-subtitle">Groups | Events</div>
+  <div class="nav-main-link-arrow-bg"></div>
+</a>
+<a href="/give/" class="nav-main-link show-on-hover" style="padding-right: 0">
+  <div class="nav-main-link-title nav-main-link-title-gi"><span class="hidden">Give</span></div>
+  <div class="nav-main-link-subtitle">Tithes | Offerings</div>
+  <div class="nav-main-link-arrow-bg"></div>
+</a>        </div>
+      </div>
+
+      <div class="site-search">
+        <form method="get" action="/search/">
+          <input type="text" name="q" id="site-search-input" class="site-search-input input-mid-blue-glow" placeholder="search"
+            accesskey="s" autocomplete="off">
+          <div id="site-search-suggestions" class="site-search-suggestions clearfix hidden"></div>
+        </form>
+      </div> <!-- end site-search -->
+
+    </div> <!-- end header-wide-inner -->
+
+  </div> <!-- end header-wide-wrapper -->
+
+
+
+  <div class="dropdown-container" style="position: relative">
+    <div id="campus-dropdown" class="dropdown-content dropdown-content-campus
+      rounded50-bottom"><div style="position: absolute; top: 10px; right: 10px"><a href="javascript:;"
+  class="circle-x-close-button close-dropdowns dib"></a></div>
+
+<div class="mb100e">
+  <div class="big-text b">Choose your default campus:</b></div>
+  <div><a href="javascript:;" class="i small-text" toggle="choose-default-campus-help">What is this?</a></div>
+  <div id="choose-default-campus-help" class="small-text is-hidden">This option allows you to select a campus. Based on your
+    default campus, sections of this website will be customized to meet your needs.</div>
+</div>
+<ul class="list-spacing-200 mb100e">
+      <li>
+    <input type="radio" id="cc-pointloma" name="campus-chooser-big" class="js-input-campus-chooser" checked="checked"      data-campus-nick="pointloma" data-campus-name="Point Loma">
+    <label for="cc-pointloma" class="h3 h3-mini no-select">Point Loma</label>&nbsp; &nbsp;
+    <a href="/campuses/pointloma/">View campus page &raquo;</a>
+  </li>
+      <li>
+    <input type="radio" id="cc-sanmarcos" name="campus-chooser-big" class="js-input-campus-chooser"       data-campus-nick="sanmarcos" data-campus-name="San Marcos">
+    <label for="cc-sanmarcos" class="h3 h3-mini no-select">San Marcos</label>&nbsp; &nbsp;
+    <a href="/campuses/sanmarcos/">View campus page &raquo;</a>
+  </li>
+      <li>
+    <input type="radio" id="cc-eastcounty" name="campus-chooser-big" class="js-input-campus-chooser"       data-campus-nick="eastcounty" data-campus-name="East County">
+    <label for="cc-eastcounty" class="h3 h3-mini no-select">East County</label>&nbsp; &nbsp;
+    <a href="/campuses/eastcounty/">View campus page &raquo;</a>
+  </li>
+      <li>
+    <input type="radio" id="cc-sanysidro" name="campus-chooser-big" class="js-input-campus-chooser"       data-campus-nick="sanysidro" data-campus-name="San Ysidro">
+    <label for="cc-sanysidro" class="h3 h3-mini no-select">San Ysidro</label>&nbsp; &nbsp;
+    <a href="/campuses/sanysidro/">View campus page &raquo;</a>
+  </li>
+      <li>
+    <input type="radio" id="cc-cityheights" name="campus-chooser-big" class="js-input-campus-chooser"       data-campus-nick="cityheights" data-campus-name="City Heights">
+    <label for="cc-cityheights" class="h3 h3-mini no-select">City Heights</label>&nbsp; &nbsp;
+    <a href="/campuses/cityheights/">View campus page &raquo;</a>
+  </li>
+  </ul>
+
+<div><a href="javascript:;" class="btn btn-small btn-blue close-dropdowns">Done</a></div></div>
+    <div id="about-dropdown" class="dropdown-content hide-on-mouseleave"><div class="dropdown-content-copy clearfix">
+  <div class="dropdown-content-copy-block w150px">
+    <h4 class="h4-small mb3px">About the Rock</h4>
+    <ul class="list-spacing-110 mb125e">
+      <li><a href="/mission/">Mission</a></li>
+      <li><a href="/history/">History</a></li>
+      <li><a href="/beliefs/">Beliefs</a></li>
+      <li><a href="/pastormiles/">Pastor Miles</a></li>
+    </ul>
+    <h4 class="h4-small mb3px">Resources</h4>
+    <ul class="list-spacing-110 mb125e">
+      <li><a href="/pastors-staff/">Pastors & Staff</a></li>
+      <li><a href="/jobs/">Jobs</a></li>
+      <li><a href="/contactus/">Contact Us</a></li>
+    </ul>
+  </div> <!-- end dropdown-content-copy-block -->
+  <div class="dropdown-content-copy-block w400px">
+    <img src="http://www.rcstatic.net/themes/rock11/img/nav/about-photo-collage-2.jpg" class="block mb125e" width="400" height="72">
+    <p style="margin-bottom: 1em">The Rock Church started in February 2000 by Pastor Miles McPherson. Currently over 18,000 people attend the Rock every Sunday in-person or online.</p>
+    <p>The Rock is a Do Something Church committed to serve the needs of our community. For more info,
+      <a href="/newtotherock/">Watch video &raquo;</a>.</p>
+  </div> <!-- end dropdown-content-copy-block -->
+  <div class="dropdown-content-copy-block w250px">
+    <a href="/campuses/" class="nav-promo clearfix">
+      <div class="nav-promo-img-wrapper">
+        <div class="nav-promo-img nav-promo-img-ss"></div>
+      </div>
+      <div class="nav-promo-text">
+        <div class="nav-promo-title">Sunday Services</div>
+        <div class="nav-promo-subtitle">Campuses | Service Times</div>
+      </div>
+    </a>
+    <a href="/newtotherock/" class="nav-promo clearfix">
+      <div class="nav-promo-img-wrapper">
+        <div class="nav-promo-img nav-promo-img-nttr"></div>
+      </div>
+      <div class="nav-promo-text">
+        <div class="nav-promo-title">New to the Rock?</div>
+        <div class="nav-promo-subtitle">Watch Video</div>
+      </div>
+    </a>
+  </div> <!-- end dropdown-content-copy-block -->
+</div> <!-- end dropdown-content-copy -->
+
+<div>
+  Find a Rock Campus:
+  <a href="/campuses/pointloma/">Point Loma</a>,
+  <a href="/campuses/sanmarcos/">San Marcos</a>,
+  <a href="/campuses/eastcounty/">East County</a>,
+  <a href="/campuses/sanysidro/">San Ysidro</a>,
+  <a href="/campuses/cityheights/">City Heights</a>, or
+  <a href="/campuses/">View all &raquo;</a>
+</div></div>
+    <div id="watch-dropdown" class="dropdown-content hide-on-mouseleave">
+<div class="dropdown-content-copy clearfix">
+  <div class="dropdown-content-copy-block w150px">
+    <h4 class="h4-small mb3px">Videos</h4>
+    <ul class="list-spacing-110 mb125e">
+      <li><a href="/messages/">Message Archive</a></li>
+    </ul>
+    <h4 class="h4-small mb3px">External Links</h4>
+    <ul class="list-spacing-110 mb125e">
+      <li><a href="https://vimeo.com/rockfilms">Rock Films</a></li>
+      <li><a href="http://www.youtube.com/therocksandiego">YouTube</a></li>
+      <li><a href="/milesaminute/">Miles A Minute</a></li>
+    </ul>
+  </div>
+  <div class="dropdown-content-copy-block w400px">
+    <div style="margin-bottom: 3px"><a href="/messages/allin2017/"><img
+      src="/utilities/nickthumb/tn/400/125/1/uploads/web/058f5b00186ba4ab1b3fc4b6c7e8cb7d.jpg" class="block" width="400" height="125"></a></div>
+    <h4 class="h4-small mb3px">Current Series: All In</h4>
+    <p class="mt0">This 4-part series challenges us to have an ALL IN Heart that God can continually use to accomplish His work. <a href="/messages/allin2017/">More Info &raquo;</a></p>
+    <p style="margin-top: 12px"><b><i>Latest message:</i></b>
+      <a href="/messages/2017-10-22/">Part 1, The Lost Attachment &raquo;</a></p>
+  </div>
+  <div class="dropdown-content-copy-block w250px">
+    <a href="/campuses/" class="nav-promo clearfix">
+      <div class="nav-promo-img-wrapper">
+        <div class="nav-promo-img nav-promo-img-aip"></div>
+      </div>
+      <div class="nav-promo-text">
+        <div class="nav-promo-title">Attend In-Person</div>
+        <div class="nav-promo-subtitle">Campuses | Service Times</div>
+      </div>
+    </a>
+    <a href="/live/" class="nav-promo clearfix">
+      <div class="nav-promo-img-wrapper">
+        <div class="nav-promo-img nav-promo-img-wo"></div>
+      </div>
+      <div class="nav-promo-text">
+        <div class="nav-promo-title" style="position: relative">Watch Online
+                  </div>
+        <div class="nav-promo-subtitle">Rock Live</div>
+      </div>
+    </a>
+  </div> <!-- end dropdown-content-copy-block -->
+</div>
+
+<div>Watch Sunday messages on your iPhone, iPad or Android.
+  <a href="/mobile/">Get the mobile app &raquo;</a></div></div>
+    <div id="grow-dropdown" class="dropdown-content hide-on-mouseleave"><div class="dropdown-content-copy clearfix">
+  <div class="dropdown-content-copy-block w450">
+    <h4 class="h4-small mb3px">First Steps</h4>
+    <ul class="list-spacing-110 mb125e">
+      <li><a href="/knowgod/">Know God</a></li>
+      <li><a href="/baptism/">Get Baptized</a></li>
+    </ul>
+    <h4 class="h4-small mb3px">Discipleship</h4>
+    <ul class="list-spacing-110 mb125e">
+      <!-- <li><a href="/lifegrowth/">Life Growth Track</a> <span style="color: #999">-</span> <span class="small-upper">Ongoing classes</span></li> -->
+      <li><a href="/lifeclass/">Life Class</a> <span style="color: #999">-</span> <span class="small-upper">Rock membership</span></li>
+      <li><a href="/schoolofministry/">Rock School of Ministry</a></li>
+    </ul>
+    <h4 class="h4-small mb3px">Resources</h4>
+    <ul class="list-spacing-110 mb125e">
+      <li><a href="/giftstest/">Spiritual Gifts Test</a></li>
+      <li><a href="/bible/">Bible Reading Plan</a></li>
+    </ul>
+  </div> <!-- end dropdown-content-copy-block -->
+  <div class="dropdown-content-copy-block w420 clearfix" style="margin-left: 30px">
+    <div class="flol" style="width: 172px; margin-right: 15px"><img src="http://www.rcstatic.net/themes/rock11/img/nav/pastor-miles-shot.jpg"
+      class="block" width="172" height="212" alt="Pastor Miles"></div>
+    <div class="flor" style="width: 180px">
+      <p style="margin-bottom: .7em; margin-top: 5px">&ldquo;God created you with an awesome purpose for your life. Through prayer, Bible study, and community with other believers you can discover His plan for you. The Rock has opportunities to help you grow in your walk with God. Take advantage of these classes and resources.&rdquo;</p>
+      <p><i>&ndash; Pastor Miles McPherson</i></p>
+    </div>
+  </div> <!-- end dropdown-content-copy-block -->
+  <div class="dropdown-content-copy-block w250px">
+    <a href="/knowgod/" class="nav-promo clearfix">
+      <div class="nav-promo-img-wrapper">
+        <div class="nav-promo-img nav-promo-img-kg"></div>
+      </div>
+      <div class="nav-promo-text">
+        <div class="nav-promo-title">Know God</div>
+        <div class="nav-promo-subtitle">Watch Video</div>
+      </div>
+    </a>
+    <a href="/lifeclass/" class="nav-promo clearfix">
+      <div class="nav-promo-img-wrapper">
+        <div class="nav-promo-img nav-promo-img-ru"></div>
+      </div>
+      <div class="nav-promo-text">
+        <div class="nav-promo-title">Life Class</div>
+        <div class="nav-promo-subtitle">Discover Your Design</div>
+      </div>
+    </a>
+  </div> <!-- end dropdown-content-copy-block -->
+</div> <!-- end dropdown-content-copy -->
+
+<div>Discover your God-given design and become a Rock member. <a href="/lifeclass/">Attend the Life Class &raquo;</a></div></div>
+    <div id="connect-dropdown" class="dropdown-content hide-on-mouseleave"><div class="dropdown-content-copy clearfix">
+  <div class="dropdown-content-copy-block w150px" style="margin-left: 70px">
+    <div><img src="http://www.rcstatic.net/themes/rock11/img/nav/rock-kids-photo.jpg" class="block" width="150" height="102" alt="Rock Kids"></div>
+    <p class="mb0" style="margin-top: 7px">You are viewing groups and ministries for the <span class="current-campus-name"><span style="white-space: nowrap">Point Loma</span></span> campus.</p>
+    <p style="margin-top: 3px"><a href="javascript:;" class="nav-main-link-trigger"
+      rel="#nav-campus-link">Change campus <span class="popup-window-icon"></span></a></p>
+  </div>
+  <div class="dropdown-content-copy-block w650px clearfix">
+    <div class="flol" style="margin-left: 15px">
+      <h4 class="h4-small mb3px">Core Ministries</h4>
+      <ul class="list-spacing-110 mb125e">
+        <li><a href="/ministries/mens/">Men</a>
+          <span style="color: #999">|</span>
+          <a href="/ministries/womens/">Women</a></li>
+        <li> <!-- <a href="/ministries/college/">College</a>
+          <span style="color: #999">|</span> -->
+            <a href="/ministries/youngadult/">Young Adult</a></li>
+        <li><a href="/ministries/youth/">Middle & High School</a></li>
+        <li><a href="/ministries/childrens/">Children</a></li>
+        <li><a href="/ministries/marriage/">Marriage</a></li>
+        <li class="mt50e"><a href="/ministries/">View all ministries &raquo;</a></li>
+      </ul>
+      <h4 class="h4-small mb3px">Serve</h4>
+      <ul class="list-spacing-110 mb125e">
+        <li><a href="/volunteer/">Volunteer Sign-Up</a></li>
+      </ul>
+    </div>
+    <div class="flol" style="margin-left: 45px">
+      <h4 class="h4-small mb3px">Community</h4>
+      <ul class="list-spacing-110 mb125e">
+        <li><a href="/rgroups/">rGroups</a></li>  
+      </ul>
+      <h4 class="h4-small mb3px">Outreach</h4>
+      <ul class="list-spacing-110 mb125e">
+        <li><a href="/ministries/outreach/">Outreach Ministries</a></li>
+        <li><a href="/ministries/sports/">Sports Ministries</a></li>
+      </ul>
+      <h4 class="h4-small mb3px">Missions</h4>
+      <ul class="list-spacing-110 mb125e">
+        <li><a href="/globaloutreach/">Global Outreach</a></li>  
+      </ul>
+    </div>
+    <div class="flol" style="margin-left: 45px">
+      <h4 class="h4-small mb3px">News & Updates</h4>
+      <ul class="list-spacing-110 mb125e">
+        <li><a href="/stories/">Stories</a></li>
+        <li><a href="/events/">Events</a></li>
+        <!-- <li><a href="/photos/">Photos</a></li> -->
+        <li><a href="/blog/">Blog</a></li>
+      </ul>
+      <h4 class="h4-small mb3px">Resources</h4>
+      <ul class="list-spacing-110 mb125e">
+        <li><a href="/classifieds/">Classifieds</a></li>
+        <!-- <li><a href="/businessdirectory/">Business Directory</a></li> -->
+      </ul>
+    </div>
+  </div> <!-- end dropdown-content-copy-block -->
+</div> <!-- end dropdown-content-copy -->
+
+<div>Make friends and grow spiritually. <a href="/rgroups/"
+ >Find an rGroup &raquo;</a></div></div>
+  </div> <!-- end dropdown-container -->
+</div>
+
+<div class="header-narrow hidden block-b1000">
+  <div class="header-narrow-menu dib">
+    <a href="javascript:;" class="mobile-menu-trigger no-select"><img src="http://www.rcstatic.net/themes/rock11/img/icons/mobile-menu.png"
+      class="block" width="64" height="59"></a>
+  </div>
+  <div class="header-narrow-logo dib">
+    <a href="/"><img src="http://www.rcstatic.net/themes/rock11/img/rock-logo.png" class="block" width="219" height="45"></a>
+  </div>
+</div>    </div> <!-- end header-container -->
+
+  
+  <div class="background">
+    <div id="background-overlay" class="element-overlay hidden" style="opacity: .5"></div>
+    <div class="main-container">
+            <div class="page-content clearfix"><!-- <div class="mt75e">
+  </div> -->
+
+<!-- <div class="slideshow-wrapper mt75e mt150e-a1000"> -->
+<div class="slideshow-wrapper mt75e mt150e-a1000">
+  
+  <div class="slideshow-nav clearfix hidden not-visible visible-a500">
+    <ul class="ss-nav">
+      <li><a id="ss-next" class="no-outline"><img src="http://www.rcstatic.net/images/home/arrow-right.png" class="no-scale"
+        width="27" height="35" alt="Next"></a></li>
+    </ul>
+    <ul class="ss-nav">
+      <li><a id="ss-prev" class="no-outline"><img src="http://www.rcstatic.net/images/home/arrow-left.png" class="no-scale"
+        width="27" height="35" alt="Previous"></a></li>
+    </ul>
+  </div> <!-- end slideshow-nav -->
+  <div class="img-contain img-contain-2406p cycle-slideshow slideshow slideshow-home"
+    data-cycle-slides=".slide-home" data-cycle-pause-on-hover="true"
+    data-cycle-prev="#ss-prev" data-cycle-next="#ss-next" data-cycle-manual-speed="200" data-cycle-speed="750" 
+    data-cycle-swipe="true" data-cycle-log="false" data-cycle-timeout="6000"
+    data-cycle-loader="true" data-cycle-progressive="#homeSlides">
+        <div class="slide slide-home img-contain-img"><a href="/events/19278/" data-slide-id="307"><div><img src="http://www.rcstatic.net/utilities/nickthumb/tn/960/399/1/uploads/web/d2f9403e359cd391ef5005abc557431e.jpg" width="960" height="399"></div></a></div>  <script id="homeSlides" type="text/cycle">
+                  <div class="slide slide-home img-contain-img"><a href="/rgroups/" data-slide-id="301"><div><img src="http://www.rcstatic.net/utilities/nickthumb/tn/960/399/1/uploads/web/13a587a4c5a3fd17878f0fa138673528.jpg" width="960" height="399"></div></a></div>          <div class="slide slide-home img-contain-img"><a href="/events/19282/" data-slide-id="291"><div><img src="http://www.rcstatic.net/utilities/nickthumb/tn/960/399/1/uploads/web/03a59f034b503fd379e17f8b06bc5795.jpg" width="960" height="399"></div></a></div>          <div class="slide slide-home img-contain-img"><a href="http://toys-for-joy.org/" data-slide-id="282"><div><img src="http://www.rcstatic.net/utilities/nickthumb/tn/960/399/1/uploads/web/8229c4f6c7e9fecb63f341ab19ebd664.jpg" width="960" height="399"></div></a></div>          <div class="slide slide-home img-contain-img"><a href="/lifeclass/" data-slide-id="269"><div><img src="uploads/web/abb7fa3c796090c0e5d3e943f986ed5c.jpg" width="960" height="399"></div></a></div>          <div class="slide slide-home img-contain-img"><a href="/allin/" data-slide-id="279"><div><img src="uploads/web/fc9c2966aae8713003c9f23b4f159ba7.jpg" width="960" height="399"></div></a></div>          <div class="slide slide-home img-contain-img"><a href="/reliefs/disasterrelief/" data-slide-id="305"><div><img src="http://www.rcstatic.net/utilities/nickthumb/tn/960/399/1/uploads/web/cf8afcef55ff4bb61eb6aede87d1a809.jpg" width="960" height="399"></div></a></div>          <div class="slide slide-home img-contain-img"><a href="javascript:;/" data-slide-id="283"><div><img src="http://www.rcstatic.net/utilities/nickthumb/tn/960/399/1/uploads/web/96aeecf7882188d9ef131d0b1d762298.jpg" width="960" height="399"></div></a></div>          <div class="slide slide-home img-contain-img"><a href="/campuses/" data-slide-id="288"><div><img src="http://www.rcstatic.net/utilities/nickthumb/tn/960/399/1/uploads/web/38dbaa98ac9476d9ccab589c1d65a9d7.jpg" width="960" height="399"></div></a></div>      </script>
+  </div>
+
+</div>
+
+<div class="js-latest-message-bar mb250e mt50e">
+  
+
+
+  <style>
+  .yellow-arrow { width: 0; height: 0; border-top: 10px solid transparent; border-bottom: 10px solid transparent; border-right: 10px solid #fdb825; float: left; margin-left: -15px }
+  a:hover .yellow-arrow { border-right-color: #ddab42 }
+  </style>
+
+  <div class="media light-grey-bg">
+    <div class="media-img ph50e pb50e pt75e pt50e-a400 pa75e-a700" style="border-right: 4px solid #fff; margin-right: -4px">
+      <h3 class="h3-mini h3-mini-no-scale ma0 fs100p">Latest</h3>
+      <h3 class="h3-tiny h3-tiny-no-scale ma0 fs100p">Message</h3>
+    </div>
+    <div class="media-bd pa50e pa75e-a700" style="border-left: 4px solid #fff">
+      <div class="dib media w100p">
+        <div class="tiny-day-icon media-img mr50e mt0 no-scale">
+          <div class="tiny-day-icon-month tiny-day-icon-month-no-scale">Oct</div>
+          <div class="tiny-day-icon-day tiny-day-icon-month-no-scale">22</div>
+        </div>
+        <div class="media-bd clearfix">
+          <div class="flor ml100e hidden block-a500">
+                          <a href="/messages/2017-10-22/" class="btn btn-small btn-white ma0 hidden inline-block-a700" rel="Download link">Download</a>
+              <a href="/messages/2017-10-22/" class="btn btn-small btn-white ma0" rel="Watch Now link">Watch Now
+                <span class="mid-text vam">&#x25b6;</span></a>
+                      </div>
+          <h5 class="h5-small h5-small-no-scale mb2px"><a href="/messages/2017-10-22/"
+            rel="Message Title link">All In - Part 1, The Lost Attachment</a><h5>
+          <div class="small-upper small-upper-no-scale">Pastor Miles McPherson</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div>
+  <div class="main-heading mb100e-a400">
+  <h3>Featured Content</h3>
+</div>
+
+<div class="clearfix">
+                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="1">
+  <a href="/stories/novapage/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/f7d136d9e4f4cefb99b072653791e5b2.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Get to know your Worship Leader: Nova Page</h5>
+      <!-- <div class="small-upper">September 28, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="1">
+  <a href="/stories/goingoutandcomingin/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/4301215a42d1596f88d224670c4d085a.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Going Out and Coming In</h5>
+      <!-- <div class="small-upper">September 27, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="1">
+  <a href="/stories/whengodmoves/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/1e44779148b6b035ceace903ca729952.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">When God Moves</h5>
+      <!-- <div class="small-upper">September 26, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="1">
+  <a href="/stories/andrehudson/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/b42243d21522870cf7c5d68a6a52836b.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Get to know your Worship Leader: Andre Hudson</h5>
+      <!-- <div class="small-upper">September 21, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="1">
+  <a href="/stories/drewbarragan/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/cfd65c23958b3604e5e6ed31d5ad0ff7.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Get to know your Worship Leader: Drew Barragan</h5>
+      <!-- <div class="small-upper">September 21, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="1">
+  <a href="/stories/hurricaneharvey/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/80b96a6561a2941df0de64358c207fd6.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Hurricane Harvey Relief</h5>
+      <!-- <div class="small-upper">September 11, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="1">
+  <a href="/stories/rubenmundo/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/e679f1b2c9f7cc8994160dbdfb490026.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Get to know your Worship Leader: Ruben Mundo</h5>
+      <!-- <div class="small-upper">September 11, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="1">
+  <a href="/stories/joshuarandle/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/802a1b1f3416e2b05dc3fc5c8a05ec60.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Get to know your Worship Leader: Joshua Randle</h5>
+      <!-- <div class="small-upper">September 11, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="1">
+  <a href="/stories/calltomissions/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/66fd127a8c79d55a40da5f9427914418.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">A Call to Missions</h5>
+      <!-- <div class="small-upper">September 4, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="1">
+  <a href="/stories/impacto/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/a4ecf20cd732f29f13f1b5724af02804.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">A Life of Impact</h5>
+      <!-- <div class="small-upper">August 29, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="1">
+  <a href="/stories/bodyofchrist/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/5aeb307c537a8717db7eeb3bfa63ca4d.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Our Place in the Body of Christ</h5>
+      <!-- <div class="small-upper">August 28, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="1">
+  <a href="/stories/openoureyes/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/e21ad20260718207ae2a5368f914d1e1.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Open Our Eyes</h5>
+      <!-- <div class="small-upper">August 15, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="2">
+  <a href="/stories/identityinchrist/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/1dcc8df6c53c508441fc83f1f45f947b.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Our Identity in Christ</h5>
+      <!-- <div class="small-upper">August 14, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="2">
+  <a href="/stories/deklete/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/042a38e15001275767f06f5220e295f2.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Deklete</h5>
+      <!-- <div class="small-upper">August 2, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="2">
+  <a href="/stories/trustinthelord/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/c6b9ceeff45b9bca4e7b18ce2449595a.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Trust in the Lord</h5>
+      <!-- <div class="small-upper">July 31, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="2">
+  <a href="/stories/perfection/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/e3692199c264202836bead14b14805ee.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Letting Go of Perfection</h5>
+      <!-- <div class="small-upper">July 25, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="2">
+  <a href="/stories/freedom/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/cd69543d1763ddb2c9c2aca2816dfe26.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Freedom In Christ</h5>
+      <!-- <div class="small-upper">July 18, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="2">
+  <a href="/stories/villasenor/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/5dc87774fb34c38e5a9a308cdc05434e.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">To Suffer Well</h5>
+      <!-- <div class="small-upper">June 21, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="2">
+  <a href="/stories/fathersdayresources/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/7bbf1b1c7a1ed21d1d6c61727197f2b3.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Fathers Day | Resources + Support</h5>
+      <!-- <div class="small-upper">June 17, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="2">
+  <a href="/stories/timothyshome/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/e31455f82e14d23fab3f2d577c4ffb06.jpeg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Faithful With the Small</h5>
+      <!-- <div class="small-upper">June 15, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="2">
+  <a href="/stories/harvest/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/8b9c385e06fc3bccb4efb8e6aabc8dc3.jpeg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">A Time for Harvest</h5>
+      <!-- <div class="small-upper">May 4, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="2">
+  <a href="/stories/violated/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/6409070b911189443a2e17a939530ed5.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Violated, but Victorious</h5>
+      <!-- <div class="small-upper">April 17, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="2">
+  <a href="/stories/prayingwhilewaiting/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/40102a743d6dbec67ad3ebd982a268ff.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Praying While Waiting</h5>
+      <!-- <div class="small-upper">April 3, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="2">
+  <a href="/stories/throughthestorm/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/a1f26959137bb1ed13f3b9732f7cdbe0.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Standing Firm Through the Storm</h5>
+      <!-- <div class="small-upper">March 28, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="3">
+  <a href="/stories/breakingfree/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/db0b014dbfdf7fdaf18e0d9696b8636b.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Breaking Free</h5>
+      <!-- <div class="small-upper">March 27, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="3">
+  <a href="/stories/GOidentity/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/4312065ee681c3f0c1ff7e9327507b59.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Embracing Your Identity</h5>
+      <!-- <div class="small-upper">March 17, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="3">
+  <a href="/stories/stpaddy/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/de0960d6ec417c246eaaef4c1db0062b.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Do you know St. Paddy?</h5>
+      <!-- <div class="small-upper">March 16, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="3">
+  <a href="/stories/haitiupdate/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/1ec3a9500dd23c45b7a96a0caa45eae4.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">An Update From Haiti</h5>
+      <!-- <div class="small-upper">March 15, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="3">
+  <a href="/stories/trialsandtribulation/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/a6f6601e25eaca6e22f9fe828c987224.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Trials and Tribulation</h5>
+      <!-- <div class="small-upper">March 13, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="3">
+  <a href="/stories/justintime/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/9e21915d4f7a1bc15a9f7d83e4a06e8d.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Just In Time</h5>
+      <!-- <div class="small-upper">February 14, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="3">
+  <a href="/stories/jordinsparks/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/ead46540bbfba0530bc98f75f6998728.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Jordin Sparks</h5>
+      <!-- <div class="small-upper">February 13, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="3">
+  <a href="/stories/afterthefast/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/6da7f4d493357814f136bf0f04bca745.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Did God Forget to Show Up?</h5>
+      <!-- <div class="small-upper">January 28, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="3">
+  <a href="/stories/fastweek3/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/ffd76e170242dd4a0bc26360fee93b3e.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">21-Day Fast Week 3</h5>
+      <!-- <div class="small-upper">January 20, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="3">
+  <a href="/stories/liquidfast/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/4dcbae4bd6c679d37f5b5ba6550e16c3.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">So You're Doing A Liquid Fast? (+ more Daniel Fast ideas)</h5>
+      <!-- <div class="small-upper">January 13, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="3">
+  <a href="/stories/fastweek1/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/be4be17b70c879903188fcee3fdee78e.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Fasting Sugar and Processed Foods?</h5>
+      <!-- <div class="small-upper">January 6, 2017</div> -->
+    </div>
+  </a>
+</div>                  <div class="gi gi-4m media media-ca-400 mb0 mb300e-a400 pv100e pv0-a400 lgbbw ba0-a400 hidden js-home-story"
+  rel="3">
+  <a href="/stories/answeringthecall/" style="position: relative">
+    <div class="media-img mr50e w40p">
+      <div class="img-contain img-contain-210p">
+        <div class="img-shadow img-contain-img">
+          <img class="block" width="244" height="116" data-img-src="/utilities/nickthumb/tn/244/116/1/uploads/web/9c0327fa1769ef8e4023c0063633947a.jpg">
+        </div>
+      </div>
+    </div>
+    <div class="media-bd pt2px-a400 pr100e pr0-a400">
+      <h5 class="lh140">Answering the Call</h5>
+      <!-- <div class="small-upper">January 6, 2017</div> -->
+    </div>
+  </a>
+</div>  </div>
+
+<div class="mt200e mt0-a400">
+  <a href="javascript:;" id="home-stories-clicker" class="btn btn-big btn-light-grey">Show more
+    <span class="dib vam pl50e big-text">&#9660;</span></a>
+  <a href="/stories/" id="home-stories-page-link" class="btn btn-big btn-blue hidden">View all stories
+    <span class="dib vam pl50e big-text">&#9654;</span></a>
+</div></div></div>
+    </div> <!-- end main-container -->
+  </div> <!-- end background -->
+
+  <div class="footer-container">
+    <div class="footer clearfix">
+      <div class="footer-left mid-text mb100e">
+  <div class="footer-left-section dib pl100e-a400 pr100e-a400 vatt mb100e">
+    <ul class="list-spacing-175">
+      <li><a href="http://www.therockacademy.org/" class="white">Rock Academy</a></li>
+      <li><a href="http://www.rockpilebookstore.com/" class="white">Rockpile Bookstore</a></li>
+      <li><a href="http://www.milesmcpherson.com/" class="white">Miles McPherson</a></li>
+      <li><a href="https://rockschoolofministry.com/" class="white">Rock School of Ministry</a></li>
+    </ul>
+  </div>
+  <div class="footer-left-section dib pl100e-a400 pr100e-a400 vatt mb200e">
+    <ul class="list-spacing-175">
+      <li><a href="/knowgod/" class="white">Know God</a></li>
+      <li><a href="/press/" class="white">Press</a></li>
+      <li><a href="/jobs/" class="white">Jobs</a></li>
+      <li><a href="/contactus/" class="white">Contact Us</a></li>
+    </ul>
+  </div>
+  <div class="footer-left-section dib pl100e-a400 pr100e-a400 vatt mb100e">
+    <ul class="list-spacing-175">
+      <li><a href="/classifieds/" class="white">Classifieds</a></li>
+      <li><a href="/mobile/" class="white">Mobile Apps</a></li>
+      <li><a href="/thriftstore/" class="white">Thrift Store</a></li>
+    </ul>
+  </div>
+  <div class="footer-left-section dib pl100e-a400 pr100e-a400 vatt mb200e">
+    <ul class="list-spacing-175">
+      <li><a href="/terms-of-use/" class="white">Terms of Use</a></li>
+      <li><a href="/privacy-policy/" class="white">Privacy Policy</a></li>
+      <li><a href="/code-of-conduct/" class="white">Code of Conduct</a></li>
+    </ul>
+  </div>
+</div> <!-- end footer-left -->
+
+<div class="footer-right mb100e mid-text pl100e-a400 pr100e-a400">
+  <div class="mb75e">
+    <a href="http://www.facebook.com/therocksandiego" class="white dib pb25e mr50e mb25e"><img
+      src="http://www.rcstatic.net/images/icons/social/facebook-logo-150-150.png"
+      class="vam no-scale" width="25" height="25" style="max-width: 25px"></a>
+    <a href="http://twitter.com/therocksandiego" class="white dib pb25e mr50e mb25e"><img
+      src="http://www.rcstatic.net/images/icons/social/twitter-bird-logo-150-150.png"
+      class="vam no-scale" width="25" height="25" style="max-width: 25px"></a>
+    <a href="https://www.instagram.com/therocksandiego/" class="white dib pb25e mr50e mb25e"><img
+      src="http://www.rcstatic.net/images/icons/social/instagram-logo-150-150.png"
+      class="vam no-scale" width="25" height="25" style="max-width: 25px"></a>
+    <a href="http://www.youtube.com/therocksandiego" class="white dib pb25e mb25e"><img
+      src="http://www.rcstatic.net/images/icons/social/youtube-logo-150-150.png"
+      class="vam no-scale" width="25" height="25" style="max-width: 25px"></a>
+          <a href="https://plus.google.com/117411595791532129452" rel="publisher" style="display: none">Google+</a>
+      </div>
+  <div>Copyright &copy; 2017 Rock Church</div>
+  <div>2277 Rosecrans St. San Diego, CA 92106</div>
+  <div>619.226.ROCK (7625)</div>
+  <div class="mt150e"><a href="javascript:;" class="js-toggle-main-nav-switch fs8"
+    data-current-status="off"
+    style="color: #3a3a3a">try new header</a></div>
+</div> <!-- end footer-right -->    </div> <!-- end footer -->
+  </div> <!-- end footer-container -->
+
+</div> <!-- end body-inner -->
+
+  <script>
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-131375-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+        var ga = document.createElement('script');
+        ga.src = ('https:' == document.location.protocol ?
+            'https://' :
+            'http://') + 'stats.g.doubleclick.net/dc.js';
+        ga.setAttribute('async', 'true');
+        document.documentElement.firstChild.appendChild(ga);
+        })();
+        </script>  <script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '131039057517334');
+fbq('track', 'PageView');
+</script>
+
+</body>
+</html>

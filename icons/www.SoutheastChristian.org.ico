@@ -1,0 +1,568 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js ie ie7 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js ie ie8 lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js ie ie9 lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+
+	     	<title>Southeast Christian Church</title>
+		<meta name="description" content="">
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        
+        <!-- Custom Favicon -->
+		<link rel="shortcut icon" href="//www.southeastchristian.org/_/img/icons/favicon/favicon.ico">
+		<link rel="apple-touch-icon" sizes="57x57" href="//www.southeastchristian.org/_/img/icons/favicon/apple-touch-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="//www.southeastchristian.org/_/img/icons/favicon/apple-touch-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="//www.southeastchristian.org/_/img/icons/favicon/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="//www.southeastchristian.org/_/img/icons/favicon/apple-touch-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="//www.southeastchristian.org/_/img/icons/favicon/apple-touch-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="//www.southeastchristian.org/_/img/icons/favicon/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="//www.southeastchristian.org/_/img/icons/favicon/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="//www.southeastchristian.org/_/img/icons/favicon/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="//www.southeastchristian.org/_/img/icons/favicon/apple-touch-icon-180x180.png">
+		<link rel="icon" type="image/png" href="//www.southeastchristian.org/_/img/icons/favicon/favicon-192x192.png" sizes="192x192">
+		<link rel="icon" type="image/png" href="//www.southeastchristian.org/_/img/icons/favicon/favicon-160x160.png" sizes="160x160">
+		<link rel="icon" type="image/png" href="//www.southeastchristian.org/_/img/icons/favicon/favicon-96x96.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="//www.southeastchristian.org/_/img/icons/favicon/favicon-16x16.png" sizes="16x16">
+		<link rel="icon" type="image/png" href="//www.southeastchristian.org/_/img/icons/favicon/favicon-32x32.png" sizes="32x32">
+		<meta name="msapplication-TileColor" content="#2d89ef">
+		<meta name="msapplication-TileImage" content="//www.southeastchristian.org/_/img/favicon/mstile-144x144.png">
+		<meta name="msapplication-config" content="//www.southeastchristian.org/_/img/favicon/browserconfig.xml">
+
+        <!-- Include Fonts from Adobe Typekit -->
+        <script type="text/javascript" src="//use.typekit.net/ayl1ond.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+        <script src="/_/js/lib/modernizr/modernizr.js"></script>
+
+		<!--[if lt IE 9]>
+		<script src="/_/js/respond.js"></script>
+		<![endif]-->
+
+        <link rel="stylesheet" href="/_/css/site-styles.css">
+
+
+
+	<link rel="stylesheet" href="/_/css/404.css">
+
+	<style type="text/css">
+		#InlineSearch{
+			margin:0;
+		}
+	</style>
+</head>
+<body>
+		<div id="DocumentWrapper">
+		<nav id="MobileNav" class="expandable-menu visible-xs">
+	<ul class="no-indent">
+		
+		<li class="nav-section">
+			<h4>Southeast Home</h4>
+			<ul>
+								<li ><a href="/sermons/">Sermons</a></li>
+				<li ><a href="/beliefs">Beliefs</a></li>
+				<li ><a href="/stories/">Stories</a></li>
+				<li ><a href="/events/">Events</a></li>
+				<li ><a href="/visit/">Visit</a></li>
+				<li class="dropdown "><button class="toggle">Connect</button>
+					<ul>
+						<li ><a href="/connect/">Overview</a></li>
+						<li ><a href="/connect/men/">Men</a></li>
+						<li ><a href="/connect/women/">Women</a></li>
+						<li ><a href="/connect/family/">Family</a></li>
+						<li ><a href="/connect/children/">Children</a></li>
+						<li ><a href="/connect/students/">Students</a></li>
+						<li ><a href="/connect/seniors/">Seniors</a></li>
+						<li class="dropdown ">
+							<button class="toggle">Missions</button>
+							<ul>
+								<li ><a href="/connect/missions/">Missions Overview</a></li>
+								<li ><a href="/connect/missions/trips.php">Open Trips</a></li>
+							</ul>
+						</li>
+						<li ><a href="/connect/generous-living/">Generous Living</a></li>
+						<li><a href="/connect/deaf-and-disabilities-ministry/">Deaf &amp; Disabilities</a></li>
+						<li class="dropdown ">
+							<button class="toggle">Care Ministry</button>
+							<ul>
+								<li ><a href="/connect/care/">Care Overview</a></li>
+								<li ><a href="/connect/care/care-faq.php">Care FAQ</a></li>
+								<li ><a href="/connect/care/counseling.php">Counseling</a></li>
+								<li ><a href="/connect/care/mentoring.php">Mentoring</a></li>
+								<li ><a href="/connect/care/financial.php">Financial</a></li>
+							</ul>
+						</li>
+						<li ><a href="/connect/sports-fitness/">Sports &amp; Fitness</a></li>
+					</ul>
+				</li>
+				<li ><a href="/serve/">Serve</a></li>
+				<li ><a href="/contact/">Contact</a></li>
+				<li ><a href="/about/">About</a></li>
+				<li ><a href="/giving/">Give</a></li>
+				<li id="siteLoginMobile"><a href="/login">Login</a></li>
+			</ul>
+		</li>
+		<li class="nav-section">
+			<h4>Locations</h4>
+			<ul class="list-inline locations-grid">
+				<li><a href="/blankenbaker/" class="se-logo blankenbaker">920</a></li>
+				<li><a href="/indiana/" class="se-logo indiana">IN</a></li>
+				<li><a href="/crestwood/" class="se-logo crestwood">CW</a></li>
+				<li><a href="/southwest/" class="se-logo southwest">SW</a></li>
+				<li><a href="/lagrange/" class="se-logo lagrange">LA</a></li>
+				<li><a href="/elizabethtown/" class="se-logo elizabethtown">ET</a></li>
+			</ul>
+		</li>
+	</ul>
+</nav>
+		<div id="PageCanvas">
+			<header id="SiteHeader">
+
+	<!-- SUPERNAV -->
+	<nav id="SuperNav" class="clearfix">
+		<div class="container hidden-xs">
+			<ul class="navigation list-inline pull-right">
+									<li><a href="/about/">About</a></li>
+					<li><a href="/giving/">Give</a></li>
+					<li id="siteLogin"><a href="/login">Login</a></li>
+					<li class="search-box">
+						<form id="SiteSearch" method="GET" action="/search.php">
+							<input type="text" name="q" placeholder="Search Site" /><button onclick="$('#SiteSearch').submit();"><span class="glyphicon glyphicon-search"></span></button>
+						</form>
+					</li>
+			</ul>
+			<ul class="navigation list-inline">
+				<li>
+					<button class="locations-toggle" data-toggle="on"><span class="glyphicon glyphicon-map-marker"></span>&nbsp;Locations <span class="glyphicon glyphicon-remove"></span></button>
+				</li>
+				<li>
+					<a href="http://blogs.southeastchristian.org/">Southeast Blogs</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+
+	<div id="AccountMenu" class="container">
+		<nav>
+			<ul class="list-unstyled">
+				<a href="/MyAccount"><li>My Account</li></a>
+				<a href="/MyEvents"><li>My Events</li></a>
+				<a href="/Give"><li>Give</li></a>
+				<a href="/MyAccount?logout=true"><li>Log Out</li></a>
+			</ul>
+		</nav>
+	</div>
+
+	<div id="LocationsMenu">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-lg-3 visit-us">
+					<h1 class="copy">Visit Us</h1>
+					<ul class="list-unstyled">
+						<li><a href="/blankenbaker/"><span class="se-logo stroke blankenbaker">920</span></a></li>
+						<li><a href="/indiana/"><span class="se-logo stroke indiana">IN</span></a></li>
+						<li><a href="/crestwood/"><span class="se-logo stroke crestwood">CW</span></a></li>
+						<li><a href="/southwest/"><span class="se-logo stroke southwest">SW</span></a></li>
+						<li><a href="/lagrange/"><span class="se-logo stroke lagrange">LA</span></a></li>
+						<li><a href="/elizabethtown/"><span class="se-logo stroke elizabethtown">ET</span></a></li>
+					</ul>
+					<a href="/locations">Find a location near you</a>
+				</div>
+				<div class="col-sm-7 col-lg-8 col-sm-offset-1 location-rotator">
+					<h1 class="copy">Locations &amp; Service Times</h1>
+					<div class="location-buttons">
+						<button class="se-logo blankenbaker" data-class="blankenbaker" data-target=".location-rotator">920</button>
+						<button class="se-logo" data-class="indiana" data-target=".location-rotator">IN</button>
+						<button class="se-logo" data-class="crestwood" data-target=".location-rotator">CW</button>
+						<button class="se-logo" data-class="southwest" data-target=".location-rotator">SW</button>
+						<button class="se-logo" data-class="lagrange" data-target=".location-rotator">LA</button>
+						<button class="se-logo" data-class="elizabethtown" data-target=".location-rotator">ET</button>
+					</div>
+											<div class="campus blankenbaker-info active">
+							<div class="campus-map">
+								<a href="https://www.google.com/maps/dir/Current+Location/920+Blankenbaker+Pkwy+Louisville+KY+40243"><img src="/_/img/campuses/920/small-map.png" class="img-responsive" /></a>
+								<a href="https://www.google.com/maps/dir/Current+Location/920+Blankenbaker+Pkwy+Louisville+KY+40243">Get Directions to Blankenbaker Campus</a>
+							</div>
+							<div class="campus-details">
+								<h3>Blankenbaker Campus</h3>
+								<address>
+									920 Blankenbaker Pkwy<br />
+									Louisville, KY 40243<br />
+									502.253.8000<br />
+								</address>
+								<h5>Blankenbaker Service Times:</h5>
+								<p>
+									Saturday: 5:00 p.m.<br />Sunday: 9:00 a.m. &amp; 11:15 a.m.*<br />											<small>*Interpreted for the deaf</small>								</p>
+								<p>
+									<a href="/blankenbaker/">Learn more about Blankenbaker Campus</a><br />
+									<!--a href="#">Make this location my default campus</a-->
+								</p>
+							</div>
+						</div>
+											<div class="campus indiana-info">
+							<div class="campus-map">
+								<a href="https://www.google.com/maps/dir/Current+Location/1309+Charlestown+New+Albany+Rd+Jeffersonville+IN+47130"><img src="/_/img/campuses/IN/small-map.png" class="img-responsive" /></a>
+								<a href="https://www.google.com/maps/dir/Current+Location/1309+Charlestown+New+Albany+Rd+Jeffersonville+IN+47130">Get Directions to Indiana Campus</a>
+							</div>
+							<div class="campus-details">
+								<h3>Indiana Campus</h3>
+								<address>
+									1309 Charlestown New Albany Rd<br />
+									Jeffersonville, IN 47130<br />
+									812.704.1951<br />
+								</address>
+								<h5>Indiana Service Times:</h5>
+								<p>
+									Saturday: 5:30 p.m.<br />Sunday: 9:30 a.m. &amp; 11:15 a.m.<br />								</p>
+								<p>
+									<a href="/indiana/">Learn more about Indiana Campus</a><br />
+									<!--a href="#">Make this location my default campus</a-->
+								</p>
+							</div>
+						</div>
+											<div class="campus crestwood-info">
+							<div class="campus-map">
+								<a href="https://www.google.com/maps/dir/Current+Location/6201+Crestwood+Station+Crestwood+KY+40014"><img src="/_/img/campuses/CW/small-map.png" class="img-responsive" /></a>
+								<a href="https://www.google.com/maps/dir/Current+Location/6201+Crestwood+Station+Crestwood+KY+40014">Get Directions to Crestwood Campus</a>
+							</div>
+							<div class="campus-details">
+								<h3>Crestwood Campus</h3>
+								<address>
+									6201 Crestwood Station<br />
+									Crestwood, KY 40014<br />
+									502.873.1100<br />
+								</address>
+								<h5>Crestwood Service Times:</h5>
+								<p>
+									Saturday: 5:15 p.m.<br />Sunday: 9:00 a.m., 10:30 a.m. &amp; 12:00 p.m.<br />								</p>
+								<p>
+									<a href="/crestwood/">Learn more about Crestwood Campus</a><br />
+									<!--a href="#">Make this location my default campus</a-->
+								</p>
+							</div>
+						</div>
+											<div class="campus southwest-info">
+							<div class="campus-map">
+								<a href="https://www.google.com/maps/dir/Current+Location/8301+Saint+Andrews+Church+Road+Louisville+KY+40258"><img src="/_/img/campuses/SW/small-map.png" class="img-responsive" /></a>
+								<a href="https://www.google.com/maps/dir/Current+Location/8301+Saint+Andrews+Church+Road+Louisville+KY+40258">Get Directions to Southwest Campus</a>
+							</div>
+							<div class="campus-details">
+								<h3>Southwest Campus</h3>
+								<address>
+									8301 Saint Andrews Church Road<br />
+									Louisville, KY 40258<br />
+									502.614.1500<br />
+								</address>
+								<h5>Southwest Service Times:</h5>
+								<p>
+									Sunday: 9:30 a.m. &amp; 11:15 a.m.<br />								</p>
+								<p>
+									<a href="/southwest/">Learn more about Southwest Campus</a><br />
+									<!--a href="#">Make this location my default campus</a-->
+								</p>
+							</div>
+						</div>
+											<div class="campus lagrange-info">
+							<div class="campus-map">
+								<a href="https://www.google.com/maps/dir/Current+Location/410+South+1st+Street+La+Grange+KY+40031"><img src="/_/img/campuses/LA/small-map.png" class="img-responsive" /></a>
+								<a href="https://www.google.com/maps/dir/Current+Location/410+South+1st+Street+La+Grange+KY+40031">Get Directions to La Grange Campus</a>
+							</div>
+							<div class="campus-details">
+								<h3>La Grange Campus</h3>
+								<address>
+									410 South 1st Street<br />
+									La Grange, KY 40031<br />
+									502.614.1200<br />
+								</address>
+								<h5>La Grange Service Times:</h5>
+								<p>
+									Sunday: 9:30 a.m. &amp; 11:15 a.m.<br />								</p>
+								<p>
+									<a href="/lagrange/">Learn more about La Grange Campus</a><br />
+									<!--a href="#">Make this location my default campus</a-->
+								</p>
+							</div>
+						</div>
+											<div class="campus elizabethtown-info">
+							<div class="campus-map">
+								<a href="https://www.google.com/maps/dir/Current+Location/600+N+Dixie+Ave+Elizabethtown+KY+42701"><img src="/_/img/campuses/ET/small-map.png" class="img-responsive" /></a>
+								<a href="https://www.google.com/maps/dir/Current+Location/600+N+Dixie+Ave+Elizabethtown+KY+42701">Get Directions to Elizabethtown Campus</a>
+							</div>
+							<div class="campus-details">
+								<h3>Elizabethtown Campus</h3>
+								<address>
+									600 N Dixie Ave<br />
+									Elizabethtown, KY 42701<br />
+									270.506.4630<br />
+								</address>
+								<h5>Elizabethtown Service Times:</h5>
+								<p>
+									Sunday: 9:30 a.m. &amp; 11:15 a.m.<br />								</p>
+								<p>
+									<a href="/elizabethtown/">Learn more about Elizabethtown Campus</a><br />
+									<!--a href="#">Make this location my default campus</a-->
+								</p>
+							</div>
+						</div>
+									</div>
+			</div>
+		</div>
+
+	</div>
+
+	<!-- MAIN SITE NAVIGATION -->
+	<nav id="SiteNav" class="clearfix">
+		<div class="container">
+
+			<!-- LEFT SIDE OF SITE NAV -->
+			<ul class="navigation pull-left">
+				<li class="desktop menu-item hidden-xs "><a href="/sermons/" class="btn-menu">Sermons</a></li>
+				<li class="desktop menu-item hidden-xs "><a href="/beliefs/" class="btn-menu">Beliefs</a></li>
+				<li class="desktop menu-item hidden-xs "><a href="/stories/" class="btn-menu">Stories</a></li>
+				<li class="desktop menu-item hidden-xs "><a href="/events/" class="btn-menu">Events</a></li>
+
+				<li class="mobile main menu-item visible-xs-inline-block">
+					<button class="btn-menu">
+						<span class="hamburger-icon">
+							<span></span>
+							<span></span>
+							<span></span>
+						</span>
+						Menu
+					</button>
+				</li>
+			</ul>
+
+			<span class="site-logo">
+				<a href="/">
+					<img src="/_/img/logos/southeast/se-logo-invert-update.png" class="img-responsive" alt="Southeast Christian Church" style="width:100%; max-width:80px;" />
+				</a>
+			</span>
+
+			<!-- RIGHT SITE OF SITE NAV -->
+			<ul class="navigation pull-right">
+				<li class="desktop menu-item hidden-xs "><a href="/visit/" class="btn-menu">Visit</a></li>
+				<li class="desktop menu-item hidden-xs "><a href="/connect/" class="btn-menu">Connect</a></li>
+				<li class="desktop menu-item hidden-xs "><a href="/serve/" class="btn-menu">Serve</a></li>
+				<li class="desktop menu-item hidden-xs "><a href="/contact/" class="btn-menu">Contact</a></li>
+				<li class="mobile menu-item visible-xs-inline-block"><a href="/locations" class="btn-menu"><span class="glyphicon glyphicon-map-marker"></span> <span class="icon-label">Locations</span></a></li>
+				<li class="mobile menu-item visible-xs-inline-block"><a href="/search.php" class="btn-menu"><span class="glyphicon glyphicon-search"></span> <span class="icon-label">Search</span></a></li>
+			</ul>
+		</div>
+	</nav>
+
+</header>
+			<main id="PageBody">
+
+	<section id="NotFound">
+		<div class="container">
+			<h1 class="section-header">Not Found</h1>
+
+			<div class="row">
+				<aside class="col-sm-3">
+					<p class="bible-verse">
+						<span class="verse">For the Son of Man came to seek and to save the lost.</span>
+						<span class="citation niv">Luke 19:10</span>
+					</p>
+				</aside>
+				<div class="col-sm-9 col-md-8 col-md-offset-1">
+					<p>The page you are looking for cannot be found.</p>
+					<p>
+						With our recent website redesign, page titles and locations may have changed. <br />
+						So, please <a href="/">visit our homepage</a> or use the search box below to find the content most relevant to your search.
+					</p>
+
+					<article>
+						<h4 class="copy">Site Search</h4>
+						<form method="GET" action="/search.php" id="InlineSearch">
+							<input type="text" name="q" value="" />
+							<button onclick="$('#InlineSearch').submit();"><span class="glyphicon glyphicon-search"></span></button>
+						</form>
+					</article>
+				</div>
+			</div>
+		</div>
+	</section>
+
+				</main>
+			<!--[if lt IE 9]>
+					<div class="browser-alert">
+						<button type="button" class="btn" data-toggle="popover" title="Improve Your Experience" data-content="You are using an <strong>outdated</strong> browser. Please <a href='http://browsehappy.com/' target='_blank'>upgrade your browser</a> to improve your experience.</p>">
+							<span class="glyphicon glyphicon-exclamation-sign"></span>
+						</button>
+					</div>
+			<![endif]-->
+			<footer id="SiteFooter">
+	<section class="footer-menu">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-3 col-md-2">
+					<img src="/_/img/logos/southeast/white-transparent.png" class="img-responsive" style="margin-bottom: 2em;" />
+					<h4>Join the Conversation</h4>
+					<ul class="list-inline social-icons">
+						<li><a href="https://www.facebook.com/southeastchrist" target="_blank"><img src="/_/img/logos/facebook.png" alt="Like us on Facebook" class="social-icon" /></a></li>
+						<li><a href="https://twitter.com/southeastchrist" target="_blank"><img src="/_/img/logos/twitter.png" alt="Twitter" class="social-icon" /></a></li>
+						<li><a href="http://instagram.com/southeastchrist/" target="_blank"><img src="/_/img/logos/instagram.png" alt="Instagram" class="social-icon" /></a></li>
+						<li><a href="https://www.youtube.com/user/southeastchrist/videos" target="_blank"><img src="/_/img/logos/youtube.png" alt="YouTube" class="social-icon" /></a></li>
+						<li><a href="http://www.pinterest.com/southeastchrist/" target="_blank"><img src="/_/img/logos/pinterest.png" alt="Pinterest" class="social-icon" /></a></li>
+					</ul>
+					<ul class="menu">
+						<li><a href="/newsletter-signup.php" target="_blank">Subscribe to our newsletter</a></li>
+					</ul>
+				</div>
+				<div class="col-sm-9 col-md-9 col-md-offset-1">
+					<div class="row">
+						<div class="col-xs-6 col-sm-4">
+							<h4>Explore</h4>
+							<ul class="menu">
+								<li><a href="/sermons/">Sermons</a></li>
+								<li><a href="/beliefs/">Beliefs</a></li>
+								<li><a href="/stories/">Stories</a></li>
+								<li><a href="http://blogs.southeastchristian.org/">Southeast Blogs</a></li>
+							</ul>
+
+							<ul class="menu">
+								<li>
+									<a href="/about/">About</a>
+									<ul>
+										<li><a href="/hr/">Employment</a></li>
+										<li><a href="/giving/">Online Giving</a></li>
+										<li><a href="/contact/">Contact Us</a></li>
+										<!--<li><a href="/about/leader-resources.php">Leader Resources</a></li>-->
+									</ul>
+								</li>
+							</ul>
+						</div>
+						<div class="col-xs-6 col-sm-4">
+							<h4>Connect</h4>
+							<ul class="menu">
+								<li>
+									<a href="/connect/">Ministries</a>
+									<ul>
+										<li><a href="/connect/men/">Men</a></li>
+										<li><a href="/connect/women/">Women</a></li>
+										<li><a href="/connect/students/">Students</a></li>
+										<li><a href="/connect/children/">Children</a></li>
+										<li><a href="/connect/family/">Family</a></li>
+										<li><a href="/connect/care/">Care</a></li>
+										<li><a href="/connect/missions/">Missions</a></li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+						<div class="col-xs-12 col-sm-4">
+							<h4>We Would Love to See You</h4>
+							<a href="/visit/">Visit</a>
+							<ul class="list-inline campus-list">
+																	<li><a href="/blankenbaker/"><span class="se-logo">920</span></a></li>
+																	<li><a href="/indiana/"><span class="se-logo">IN</span></a></li>
+																	<li><a href="/crestwood/"><span class="se-logo">CW</span></a></li>
+																	<li><a href="/southwest/"><span class="se-logo">SW</span></a></li>
+																	<li><a href="/lagrange/"><span class="se-logo">LA</span></a></li>
+																	<li><a href="/elizabethtown/"><span class="se-logo">ET</span></a></li>
+															</ul>
+							<hr>
+							<h4>Leader Resources</h4>
+								<ul class="menu">
+									<li><a href="https://my.southeastchristian.org/smallgroupapp" target="_blank">Group Manager</a></li>
+									<li><a href="https://my.southeastchristian.org/page/646" target="_blank">Group Treasurer Reports</a></li>
+								</ul>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="partners">
+		<div class="container">
+			<ul class="list-inline">
+				<li><a href="https://www.livingword.org/" target="_blank">The Living Word</a></li>
+				<li><a href="http://www.southeastoutlook.org/" target="_blank">The Southeast Outlook</a></li>
+				<li><a href="/connect/sports-fitness/">Sports &amp; Fitness</a></li>
+				<li><a href="/connect/care/">The Counseling Care Center</a></li>
+				<li><a href="http://countrylake.org/" target="_blank">Country Lake</a></li>
+			</ul>
+		</div>
+	</section>
+
+	<section class="signoff">
+		<div class="container">
+			<div class="pull-right">
+				<ul class="list-inline">
+					<li><a href="/privacy-policy.php">Privacy Policy</a></li>
+					<li><a href="/terms.php">Terms &amp; Conditions</a></li>
+				</ul>
+			</div>
+			<div class="pull-left">&copy; 2000-2017 Southeast Christian Church</div>
+		</div>
+	</section>
+</footer>
+		</div>
+	</div>
+
+	<!-- JAVASCRIPT -->
+	
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-3378028-2', 'www.southeastchristian.org');
+	ga('require', 'linkid', 'linkid.js');
+	ga('send', 'pageview');
+</script>
+	
+
+
+        <script src="/_/js/main.js?v=5192017"></script>
+
+        <script src="/_/js/bootstrap.js"></script>
+
+		<!--[if lt IE 9]>
+			<script>
+				$(".browser-alert button").popover({html: true});
+			</script>
+		<![endif]-->
+
+        
+
+		<script>
+			var Campuses = {
+									 "920": {
+						name: "Blankenbaker",
+						slug: "blankenbaker"
+					}
+														, "IN": {
+						name: "Indiana",
+						slug: "indiana"
+					}
+														, "CW": {
+						name: "Crestwood",
+						slug: "crestwood"
+					}
+														, "SW": {
+						name: "Southwest",
+						slug: "southwest"
+					}
+														, "LA": {
+						name: "La Grange",
+						slug: "lagrange"
+					}
+														, "ET": {
+						name: "Elizabethtown",
+						slug: "elizabethtown"
+					}
+												};
+		</script>
+
+		
+	<!-- Page Scripts go here -->
+</body>
+</html>

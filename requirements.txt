@@ -8,4 +8,4 @@ idna==2.6
 python-gnupg==0.4.1
 PyYAML==5.1
 requests==2.18.4
-urllib3==1.22
+urllib3==1.26.5
